@@ -1,1 +1,1 @@
-In this repo, I have cloned the UI of the landing pg of www.amazon.com
+This repo showcases my project where I’ve recreated the Amazon.com landing page using HTML and CSS.
